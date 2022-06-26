@@ -1,0 +1,19 @@
+{
+
+  "Visibility": "VISIBLE",
+
+  "Title": "Test",
+
+  "Description": "Test Message",
+
+  "MainTextButton": "Update",
+
+  "Cancelable": "false",
+
+  "CancelButtonText": "Cancel",
+
+  "DownloadLink": "https://istiakrahmanshuvoo.blogspot.com/?m=1",
+
+  "Version": "1.0"
+
+}
